@@ -1,5 +1,6 @@
 {
   "name": "vscode-sniphub",
+  "repository": "https://github.com/ehowe/vscode-sniphub",
   "displayName": "vscode-sniphub",
   "description": "Sniphub support for vscode",
   "version": "0.0.1",
